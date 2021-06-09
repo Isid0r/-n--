@@ -1,0 +1,79 @@
+c:\users\maksim\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\maksim\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\maksim\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\maksim\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+c:\users\maksim\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\maksim\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+c:\users\maksim\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\maksim\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Maksim\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\рассада\программа_рассада_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Maksim\Desktop\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Maksim\Desktop\курсач_ТРСПК\программа_Ферзи_Максим\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\флешка\курсач_ТРСПК\программа_Ферзи_Максим_1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
